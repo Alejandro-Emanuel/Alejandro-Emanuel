@@ -11,7 +11,7 @@
   <a href="https://github.com/Alejandro-Emanuel">
     <img src="https://img.shields.io/badge/GitHub-ALEJANDRO EMANUEL-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/aemanuel.exe">
     <img src="https://img.shields.io/badge/Instagram-@aemanuel.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
