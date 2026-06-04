@@ -1,11 +1,11 @@
-# Olá 👋, Sou Alejandro Emanuel
+# Hi 👋, Im Alejandro Emanuel
 
 🚀 **Junior Mobile Software Engineer | React Native & JavaScript**  
 🇧🇷 Brazil
 
 
 
-## 🌐 onde me encontrar 
+## 🌐 Where to find me
 
 <p align="left">
   <a href="https://github.com/Alejandro-Emanuel">
